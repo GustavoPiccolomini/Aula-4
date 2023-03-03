@@ -36,7 +36,4 @@ content.appendChild(content);
 
 wrapper.appendChild(article);
 
-
-
-
 }
