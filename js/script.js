@@ -32,8 +32,4 @@ article.appendChild(title);
 const content = document.createElement("p");
 const contentText = document.createTextNode(postData.content);
 content.appendChild(contentText);
-content.appendChild(content);
-
-wrapper.appendChild(article);
-
 }
